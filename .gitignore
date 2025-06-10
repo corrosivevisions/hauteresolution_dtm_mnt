@@ -1,0 +1,4 @@
+HRDEM/
+*.vrt
+index_manifest.json
+__pycache__/
